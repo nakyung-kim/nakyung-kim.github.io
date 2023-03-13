@@ -1,7 +1,11 @@
 ## Portfolio
 
-This post contains my portfiolio.
+This post is dedicated to my design portfolio.
 
-I am still a novice designer and have yet to fill in the contents, but feel free to view what I got so far!
+At the moment, I have barely any projects to add to my portfolio, but hopefully this can change soon. 
 
 ---
+
+Click on the links below to access some of my works!
+
+[Color Design Portfolio ](https://docs.google.com/presentation/d/1cypqAK0rYxv2dYutOVdig1kc1vfM3_CXUMAHEyoyQ1g/edit?usp=sharing)
