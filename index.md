@@ -17,7 +17,4 @@ Below are some courses I've took or is taking:
   Colour Design
   etc
 
-Feel free to contact me through my socials:
-  email: "nakyungkim at yonsei dot ac dot kr"
-  linkedin: "nakyung-kim"
-  instagram: "n.a.kyung"
+Feel free to contact me through my socials, linked at the bottom of this blog.
