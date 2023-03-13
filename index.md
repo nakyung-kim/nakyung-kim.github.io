@@ -6,7 +6,7 @@ I am particularly interested in human-centered partnership model of people and A
 I have some experience using Adobe Premiere, Blender, Unity, Touch Designer, Adobe XD, and Audacity.
 I also know basic python, pytorch, and httml/css.
 
-Here are some courses I've took or is taking:
+Here are some courses I took or am taking:
   Introduction to Information Interaction Design,
   Introduction to Digital Tools,
   Computer Programming and Literacy,
