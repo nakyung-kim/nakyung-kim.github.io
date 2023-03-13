@@ -1,4 +1,4 @@
-Hello! I am Nakyung. I am an undergraduate student in Yonsei University at South Korea.
+Hello and welcome! I am Nakyung. I am an undergraduate student in Yonsei University at South Korea.
 
 I am currently majoring in Information Interaction Design, related to HCI. 
 I am particularly interested in human-centered partnership model of people and AI working together.
