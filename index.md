@@ -1,20 +1,11 @@
-Hello and welcome! I am Nakyung. I am an undergraduate student in Yonsei University at South Korea.
+Hello and welcome! I am Nakyung. 
 
-I am currently majoring in Information Interaction Design, related to HCI. 
-I am particularly interested in human-centered partnership model of people and AI working together.
+I am an undergraduate student and an aspiring UX designer specializing in the field of AI. I have an academic background in human-computer interactions and laboratory experience in artificial intelligence. 
 
-I have some experience using Adobe Premiere, Blender, Unity, Touch Designer, Adobe XD, and Audacity.
-I also know basic python, pytorch, and httml/css.
+As a creative and entrepreneurial thinker, I have taken on various leadership roles, including founding and incubating two workstation projects that received multiple awards and university grants and was shortlisted as finalist for 2022 Social-Venture IR competition at Yonsei University.
 
-Here are some courses I took or am taking:
-  Introduction to Information Interaction Design,
-  Introduction to Digital Tools,
-  Computer Programming and Literacy,
-  Interaction Design,
-  AI Programming with Python,
-  Social Computing,
-  Internet Programming,
-  Colour Design,
-  etc
+Additionally, I am the recipient of the Light-Up Scholarship, a two-year scholarship for students that are making meaningful changes in society, as well as the Yoon Ja Young scholarship, a scholarship for next-generation women entrepreneurs that are inspiring and uplifting others in the community.
+
+My passion lies in humanizing AI to enhance user experiences for the next generation. Feel free to reach out to me via linkedin dm :)
 
 Feel free to contact me through my socials, linked at the bottom of this blog.
